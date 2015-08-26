@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NetDeck",
+    "longName": "Hearthstone Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/dither_legend.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Belwe-Bold.ttf",
+                "name": "BELWE_BOLD_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Hearthstone Watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7fe8e5fd-2784-4300-836c-f0d6c1839d3c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
