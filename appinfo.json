@@ -9,14 +9,14 @@
     "resources": {
         "media": [
             {
-                "file": "images/menu.png",
-                "menuIcon": true,
-                "name": "MENU",
+                "file": "images/dither_legend.png",
+                "name": "BACKGROUND",
                 "type": "png"
             },
             {
-                "file": "images/dither_legend.png",
-                "name": "BACKGROUND",
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU",
                 "type": "png"
             },
             {
